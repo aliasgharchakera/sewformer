@@ -9,7 +9,7 @@ import numpy as np
 
 import svgwrite
 from svglib import svglib
-from reportlab.graphics import renderPM
+#from reportlab.graphics import renderPM
 import cairosvg
 
 
